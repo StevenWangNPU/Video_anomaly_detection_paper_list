@@ -3,6 +3,10 @@
 ## Auto-encoder: 
 * [Learning Normal Dynamics in Videos with Meta Prototype Network](https://arxiv.org/pdf/2104.06689.pdf), Hui Lv, Chen Chen, Zhen Cui, Chunyan Xu, Yong Li, Jian Yang. (CVPR2021) [[code]](https://github.com/ktr-hubrt/MPN/) 
 * [Graph Regularized Autoencoder and its Application in Unsupervised Anomaly Detection](https://arxiv.org/abs/2010.15949), Imtiaz Ahmed, Travis Galoppo, Xia Hu, Yu Ding. (TPAMI2021) [code]
+* [Anomaly Detection with Robust Deep Autoencoders](https://dl.acm.org/doi/pdf/10.1145/3097983.3098052), Chong Zhou, Randy C. Paffenroth, Authors Info & Affiliations. (KDD2017) [code]
+* [Deep autoencoding gaussian mixture model for unsupervised anomaly detection](https://www.researchgate.net/profile/Song_Qi2/publication/328437435_TGNet_Learning_to_Rank_Nodes_in_Temporal_Graphs/links/5bd608004585150b2b8c7d62/TGNet-Learning-to-Rank-Nodes-in-Temporal-Graphs.pdf), Bo Zong, Qi Song, Martin Renqiang Min, Wei Cheng, Cristian Lumezanu, Daeki Cho, Haifeng Chen. (ICLR2018) [code]
+* [Generative Probabilistic Novelty Detection with Adversarial Autoencoders](https://arxiv.org/abs/1807.02588), Stanislav Pidhorskyi, Ranya Almohsen, Donald A Adjeroh, Gianfranco Doretto. (NIPS2018) [[code]](https://github.com/podgorskiy/GPND?utm_source=catalyzex.com)
+
 
 ## Deep Neural Networks: 
 * [Video Anomaly Detection with Sparse Coding Inspired Deep Neural Networks](https://ieeexplore.ieee.org/abstract/document/8851288), Luo, Weixin, Liu Wen, Lian Dongze, Tang Jinhui, Duan Lixin, Peng Xi and Gao Shenghua. (TPAMI2021) [[code]](https://github.com/StevenLiuWen/sRNN_TSC_Anomaly_Detection) 
