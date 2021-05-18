@@ -1,4 +1,4 @@
-# Video-anomaly-detection
+# Video_anomaly_detection_paper_list
 
 ## Auto-encoder: 
 * [Learning Normal Dynamics in Videos with Meta Prototype Network](https://arxiv.org/pdf/2104.06689.pdf), Hui Lv, Chen Chen, Zhen Cui, Chunyan Xu, Yong Li, Jian Yang. (CVPR2021) [[code]](https://github.com/ktr-hubrt/MPN/) 
