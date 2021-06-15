@@ -6,7 +6,9 @@
 * [Anomaly Detection with Robust Deep Autoencoders](https://dl.acm.org/doi/pdf/10.1145/3097983.3098052), Chong Zhou, Randy C. Paffenroth, Authors Info & Affiliations. (KDD2017) [code]
 * [Deep autoencoding gaussian mixture model for unsupervised anomaly detection](https://www.researchgate.net/profile/Song_Qi2/publication/328437435_TGNet_Learning_to_Rank_Nodes_in_Temporal_Graphs/links/5bd608004585150b2b8c7d62/TGNet-Learning-to-Rank-Nodes-in-Temporal-Graphs.pdf), Bo Zong, Qi Song, Martin Renqiang Min, Wei Cheng, Cristian Lumezanu, Daeki Cho, Haifeng Chen. (ICLR2018) [code]
 * [Generative Probabilistic Novelty Detection with Adversarial Autoencoders](https://arxiv.org/abs/1807.02588), Stanislav Pidhorskyi, Ranya Almohsen, Donald A Adjeroh, Gianfranco Doretto. (NIPS2018) [[code]](https://github.com/podgorskiy/GPND?utm_source=catalyzex.com)
-
+* [Learning Temporal Regularity in Video Sequences](https://openaccess.thecvf.com/content_cvpr_2016/papers/Hasan_Learning_Temporal_Regularity_CVPR_2016_paper.pdf), Mahmudul Hasan, Jonghyun Choi, Jan Neumann, Amit K. Roy-Chowdhury, Larry S. Davis, (CVPR2016) [[code]](https://github.com/huangpu1/TemporalRegularityDetector-tensorflow)
+* [Remembering history with convolutional lstm for anomaly detection](https://ieeexplore.ieee.org/abstract/document/8019325), Weixin Luo, Wen Liu, Shenghua Gao. (ICME2017)
+[[code]](https://github.com/zachluo/convlstm_anomaly_detection)
 
 ## Deep Neural Networks: 
 * [Video Anomaly Detection with Sparse Coding Inspired Deep Neural Networks](https://ieeexplore.ieee.org/abstract/document/8851288), Luo, Weixin, Liu Wen, Lian Dongze, Tang Jinhui, Duan Lixin, Peng Xi and Gao Shenghua. (TPAMI2021) [[code]](https://github.com/StevenLiuWen/sRNN_TSC_Anomaly_Detection) 
