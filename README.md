@@ -15,7 +15,7 @@
 
 ## Sparse Coding:
 * [Abnormal Event Detection at 150 FPS in MATLAB](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Lu_Abnormal_Event_Detection_2013_ICCV_paper.pdf), Cewu Lu, Jianping Shi, Jiaya Jia. (ICCV2013) [code]
-* [Online detection of unusual events in videos via dynamic sparse coding](https://ieeexplore.ieee.org/abstract/document/5995524), Bin Zhao, Li Fei-Fei, Eric P. Xing. (ICCV2011) [code]
+* [Online detection of unusual events in videos via dynamic sparse coding](https://ieeexplore.ieee.org/abstract/document/5995524), Bin Zhao, Li Fei-Fei, Eric P. Xing. (ICCV2011) [[code]](https://github.com/gongruya/The-Realtime-Abnormal-Event-Detection-Project/tree/9f04622362cf765331371aa5c73391a52c17154b)
 
 ## Crowded Scenes:
 * [Anomaly Detection and Localization in Crowded Scenes](https://ieeexplore.ieee.org/abstract/document/6531615), Weixin Li; Vijay Mahadevan; Nuno Vasconcelos. (TPAMI2014) [code]
