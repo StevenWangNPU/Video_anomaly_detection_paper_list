@@ -20,6 +20,9 @@
 ## Crowded Scenes:
 * [Anomaly Detection and Localization in Crowded Scenes](https://ieeexplore.ieee.org/abstract/document/6531615), Weixin Li; Vijay Mahadevan; Nuno Vasconcelos. (TPAMI2014) [code]
 
+## ICCV 2021:
+* [Weakly-supervised Video Anomaly Detection with Robust Temporal Feature Magnitude Learning](https://arxiv.org/pdf/2101.10030.pdf), Yu Tian, Guansong Pang, Yuanhong Chen, Rajvinder Singh, Johan W. Verjans, Gustavo Carneiro. (ICCV2021)[[code]](https://github.com/tianyu0207/RTFM)
+
 ## Other:
 * [A Background-Agnostic Framework with Adversarial Training for Abnormal Event Detection in Video](https://www.computer.org/csdl/journal/tp/5555/01/09410375/1sYYrP4z1a8), Georgescu, Mariana Iuliana and Ionescu, Radu and Khan, Fahad Shahbaz and Popescu, Marius and Shah, Mubarak. (TPAMI2021) [code]
 * [Detecting Regions of Maximal Divergence for Spatio-Temporal Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/8352745), Barz, Bjorn and Rodner, Erik and Garcia, Yanira Guanche and Denzler, Joachim. (TPAMI2019) [code]
