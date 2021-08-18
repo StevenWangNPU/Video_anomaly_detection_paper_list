@@ -12,6 +12,7 @@
 ## Auto-encoder: 
 * [Learning Normal Dynamics in Videos with Meta Prototype Network](https://arxiv.org/pdf/2104.06689.pdf), Hui Lv, Chen Chen, Zhen Cui, Chunyan Xu, Yong Li, Jian Yang. (CVPR2021) [[code]](https://github.com/ktr-hubrt/MPN/) 
 * [Graph Regularized Autoencoder and its Application in Unsupervised Anomaly Detection](https://arxiv.org/abs/2010.15949), Imtiaz Ahmed, Travis Galoppo, Xia Hu, Yu Ding. (TPAMI2021) [code]
+* [RCA: A Deep Collaborative Autoencoder Approach for Anomaly Detection](https://www.ijcai.org/proceedings/2021/0208.pdf), Boyang Liu, Ding Wang, Kaixiang Lin, Pang-Ning Tan, Jiayu Zhou. (IJCAI2021)[[code]](https://github.com/illidanlab/RCA) 
 * [Anomaly Detection with Robust Deep Autoencoders](https://dl.acm.org/doi/pdf/10.1145/3097983.3098052), Chong Zhou, Randy C. Paffenroth, Authors Info & Affiliations. (KDD2017) [code]
 * [Deep autoencoding gaussian mixture model for unsupervised anomaly detection](https://www.researchgate.net/profile/Song_Qi2/publication/328437435_TGNet_Learning_to_Rank_Nodes_in_Temporal_Graphs/links/5bd608004585150b2b8c7d62/TGNet-Learning-to-Rank-Nodes-in-Temporal-Graphs.pdf), Bo Zong, Qi Song, Martin Renqiang Min, Wei Cheng, Cristian Lumezanu, Daeki Cho, Haifeng Chen. (ICLR2018) [code]
 * [Generative Probabilistic Novelty Detection with Adversarial Autoencoders](https://arxiv.org/abs/1807.02588), Stanislav Pidhorskyi, Ranya Almohsen, Donald A Adjeroh, Gianfranco Doretto. (NIPS2018) [[code]](https://github.com/podgorskiy/GPND?utm_source=catalyzex.com)
@@ -39,6 +40,8 @@
 * [A Background-Agnostic Framework with Adversarial Training for Abnormal Event Detection in Video](https://www.computer.org/csdl/journal/tp/5555/01/09410375/1sYYrP4z1a8), Georgescu, Mariana Iuliana and Ionescu, Radu and Khan, Fahad Shahbaz and Popescu, Marius and Shah, Mubarak. (TPAMI2021) [code]
 * [Detecting Regions of Maximal Divergence for Spatio-Temporal Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/8352745), Barz, Bjorn and Rodner, Erik and Garcia, Yanira Guanche and Denzler, Joachim. (TPAMI2019) [code]
 * [Real-Time Nonparametric Anomaly Detection in High-dimensional Settings](https://ieeexplore.ieee.org/abstract/document/8976215), Mehmet Necip Kurt; Yasin Yilmaz; Xiaodong Wang. (TPAMI2020) [code]
+* [Understanding the Effect of Bias in Deep Anomaly Detection](https://www.ijcai.org/proceedings/2021/0456.pdf), Ziyu Ye, Yuxin Chen, Haitao Zheng. (IJCAI2021)[code]
+* [Anomaly Mining – Past, Present and Future](https://www.ijcai.org/proceedings/2021/0697.pdf), Leman Akoglu. (IJCAI2021)[code]
 
 
 ## Survey:
