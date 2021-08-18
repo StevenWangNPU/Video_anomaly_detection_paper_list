@@ -1,5 +1,8 @@
 # Video_anomaly_detection_paper_list
 
+## Weakly-supervised:
+* [Weakly-Supervised Spatio-Temporal Anomaly Detection in Surveillance Video](https://www.ijcai.org/proceedings/2021/0162.pdf), Jie Wu1, Wei Zhang, Guanbin Li, Wenhao Wu, Xiao Tan, Yingying Li, Errui Ding, Liang Lin. (IJCAI2021)
+
 ## Auto-encoder: 
 * [Learning Normal Dynamics in Videos with Meta Prototype Network](https://arxiv.org/pdf/2104.06689.pdf), Hui Lv, Chen Chen, Zhen Cui, Chunyan Xu, Yong Li, Jian Yang. (CVPR2021) [[code]](https://github.com/ktr-hubrt/MPN/) 
 * [Graph Regularized Autoencoder and its Application in Unsupervised Anomaly Detection](https://arxiv.org/abs/2010.15949), Imtiaz Ahmed, Travis Galoppo, Xia Hu, Yu Ding. (TPAMI2021) [code]
