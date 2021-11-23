@@ -20,6 +20,9 @@
 * [Remembering history with convolutional lstm for anomaly detection](https://ieeexplore.ieee.org/abstract/document/8019325), Weixin Luo, Wen Liu, Shenghua Gao. (ICME2017)
 [[code]](https://github.com/zachluo/convlstm_anomaly_detection)
 
+##Video Prediction:
+* [Future Frame Prediction Network for Video Anomaly Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9622181), Weixin Luo, Wen Liu, Dongze Lian, and Shenghua Gao. (TPAMI2021) [[code]]
+
 ## Deep Neural Networks: 
 * [Video Anomaly Detection with Sparse Coding Inspired Deep Neural Networks](https://ieeexplore.ieee.org/abstract/document/8851288), Luo, Weixin, Liu Wen, Lian Dongze, Tang Jinhui, Duan Lixin, Peng Xi and Gao Shenghua. (TPAMI2021) [[code]](https://github.com/StevenLiuWen/sRNN_TSC_Anomaly_Detection) 
 
