@@ -1,5 +1,14 @@
 # Video_anomaly_detection_paper_list
 
+## Arxiv:
+* [Self-Supervised Predictive Convolutional Attentive Block for Anomaly Detection](https://arxiv.org/pdf/2111.09099.pdf), Nicolae-Cat alin Ristea, Neelu Madan, Radu Tudor Ionescu, Kamal Nasrollahi. (ArxivI2021)
+*  [FastAno: Fast Anomaly Detection via Spatio-temporal Patch Transformation](https://arxiv.org/pdf/2106.08613.pdf), Chaewon Park MyeongAh Cho Minhyeok Lee Sangyoun Lee, Yonsei University, Seoul, Republic of Korea. (ArxivI2021)
+* [Learnable Locality-Sensitive Hashing for Video Anomaly Detection](https://arxiv.org/pdf/2111.07839.pdf), Yue Lu, Congqi Cao, Yanning Zhang. (ArxivI2021) 
+* [Ano-Graph: Learning Normal Scene Contextual Graphs to Detect Video Anomalies](https://arxiv.org/pdf/2103.10502.pdf), Masoud Pourreza, Mohammadreza Salehi, Mohammad Sabokrou. (ArxivI2021) 
+
+## CVPR:
+* [Self-Supervised Predictive Convolutional Attentive Block for Anomaly Detection](https://arxiv.org/pdf/2111.09099.pdf), Nicolae-Cat alin Ristea, Neelu Madan, Radu Tudor Ionescu, Kamal Nasrollahi. (ArxivI2021)
+
 ## Weakly-supervised:
 * [Weakly-Supervised Spatio-Temporal Anomaly Detection in Surveillance Video](https://www.ijcai.org/proceedings/2021/0162.pdf), Jie Wu1, Wei Zhang, Guanbin Li, Wenhao Wu, Xiao Tan, Yingying Li, Errui Ding, Liang Lin. (IJCAI2021)
 
