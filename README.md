@@ -7,7 +7,10 @@
 * [Ano-Graph: Learning Normal Scene Contextual Graphs to Detect Video Anomalies](https://arxiv.org/pdf/2103.10502.pdf), Masoud Pourreza, Mohammadreza Salehi, Mohammad Sabokrou. (ArxivI2021) 
 
 ## CVPR:
-* [Self-Supervised Predictive Convolutional Attentive Block for Anomaly Detection](https://arxiv.org/pdf/2111.09099.pdf), Nicolae-Cat alin Ristea, Neelu Madan, Radu Tudor Ionescu, Kamal Nasrollahi. (ArxivI2021)
+* [Self-Supervised Predictive Convolutional Attentive Block for Anomaly Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9632460), Nicolae-Cat alin Ristea, Neelu Madan, Radu Tudor Ionescu, Kamal Nasrollahi. (ArxivI2021)
+
+## Visual AD
+* [Self-Supervision-Augmented Deep Autoencoder for Unsupervised Visual Anomaly Detection](https://arxiv.org/pdf/2111.09099.pdf), Chao Huang et.al. (Tcyb-2021)
 
 ## Weakly-supervised:
 * [Weakly-Supervised Spatio-Temporal Anomaly Detection in Surveillance Video](https://www.ijcai.org/proceedings/2021/0162.pdf), Jie Wu1, Wei Zhang, Guanbin Li, Wenhao Wu, Xiao Tan, Yingying Li, Errui Ding, Liang Lin. (IJCAI2021)
