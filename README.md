@@ -9,6 +9,9 @@
 ## CVPR:
 * [Self-Supervised Predictive Convolutional Attentive Block for Anomaly Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9632460), Nicolae-Cat alin Ristea, Neelu Madan, Radu Tudor Ionescu, Kamal Nasrollahi. (ArxivI2021)
 
+## GCN based
+* [A Hierarchical Spatio-Temporal Graph Convolutional Neural Network for Anomaly](https://arxiv.org/pdf/2112.04294.pdf), Zeng et.al. (Arxiv-2021)
+
 ## Visual AD
 * [Self-Supervision-Augmented Deep Autoencoder for Unsupervised Visual Anomaly Detection](https://arxiv.org/pdf/2111.09099.pdf), Chao Huang et.al. (Tcyb-2021)
 
